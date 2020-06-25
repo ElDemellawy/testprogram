@@ -34,7 +34,8 @@ int main(void) {
   //   DDRA |= (1<<bazzer);
     //to set the bin number 3 is output
    // PORTA |= (1<<bazzer);
-    //to set the bin number 3 is on 
+    //to set the bin number 3 is on
+    // mohamed mahmoued moahmed eldemellawy 
     while (1) {
     }
 }
